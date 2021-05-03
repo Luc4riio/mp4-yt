@@ -7,7 +7,7 @@ pkg install python
 
 pkg install python3
 
-git clone 
+git clone https://github.com/bydeathlxncer/mp4-yt
 
 cd mp4-yt
 
